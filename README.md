@@ -7,3 +7,6 @@ https://github.com/lesliebeijing/LibyuvDemo
 https://www.jianshu.com/p/b785dde9c0f0
 https://juejin.im/post/6844903949074432007
 
+画面如下：
+![Image text](https://github.com/felicity520/CameraTo2H264/img-files/03.png)
+
